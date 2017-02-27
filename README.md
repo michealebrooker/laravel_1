@@ -1,1 +1,1 @@
-# laravel_1
+# website using laravel and bootstrap, no model
